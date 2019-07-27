@@ -1,0 +1,16 @@
+name:                mega-repo2
+version:             0.1.0.0
+github:              "waddlaw/mega-repo2"
+license:             BSD3
+author:              "Shinya Yamguchi"
+maintainer:          "example@example.com"
+copyright:           "2019 Shinya Yamguchi"
+
+extra-source-files:
+- README.md
+
+description:         Please see the README on GitHub at <https://github.com/waddlaw/mega-repo2#readme>
+
+dependencies:
+- base >= 4.7 && < 5
+
